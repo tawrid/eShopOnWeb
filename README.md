@@ -119,9 +119,10 @@ We have some great contributions from the community, and while these aren't main
 ## Screenshots
 
 The following one shows the approval process. The relevant code can be found in the eshoponweb-ci.yml
-
+![eShopOnWeb Approval Pipelines](./images/Pipeline_Approval.png)
 
 The following one shows the SonarCloud assessment of the codes. The relevant code can be found in the eshoponweb-sonar-ci.yml
-
+![eShopOnWeb SonarCloud Code Assessment](./images/SonarCloud.png)
 
 The following one shows the Mend Bolt Supply Chain Vulnerability assessment of the codes. The relevant code can be found in the eshoponweb-ci-mend.yml
+![eShopOnWeb Mend Bolt](./images/Mend_Bolt.png)
